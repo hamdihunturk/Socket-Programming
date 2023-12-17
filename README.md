@@ -1,4 +1,4 @@
 # Nostale-RareBot
 Socket programming
-![](https://github.com/hamdihunturk/Nostale-RareBot/example.mp4)
+![Alt text](https://github.com/hamdihunturk/Nostale-RareBot/blob/main/example.mp4)
 
