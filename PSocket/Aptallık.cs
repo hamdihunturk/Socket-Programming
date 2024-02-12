@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace PSocket
 {
-    public class Aptallık
+    public class ConnectPL
     {
 
         public static string IpAdress = "127.0.0.1";
