@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aptallık.cs" />
+    <Compile Include="Main.cs" />
     <Compile Include="Class1.cs">
       <SubType>Component</SubType>
     </Compile>

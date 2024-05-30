@@ -58,3 +58,14 @@ C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\obj\Debug\PSocke
 C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\bin\Debug\PSocket.exe.config
 C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\bin\Debug\PSocket.exe
 C:\Users\Hamdi\Desktop\soket tasarim program\adammadamm\PSocket\bin\Debug\PSocket.pdb
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\obj\Debug\PSocket.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\obj\Debug\PSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\obj\Debug\PSocket.Form1.resources
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\obj\Debug\PSocket.Properties.Resources.resources
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\obj\Debug\PSocket.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\obj\Debug\PSocket.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\bin\Debug\PSocket.exe.config
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\bin\Debug\PSocket.exe
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\bin\Debug\PSocket.pdb
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\obj\Debug\PSocket.exe
+C:\Users\ASUS\Desktop\githubrepo\Rare-Bot\Nostale-RareBot\PSocket\obj\Debug\PSocket.pdb

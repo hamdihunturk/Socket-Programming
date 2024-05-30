@@ -16,7 +16,7 @@ namespace PSocket
         {
             InitializeComponent();
         }
-        Aptallık aptallık = new Aptallık();
+        ConnectPL aptallık = new ConnectPL();
         List<string> Packtes = new List<string>();
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
